@@ -1,0 +1,201 @@
+body{
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    background-color: gray;
+   
+
+}
+.img{
+    position: absolute;
+    display: flex;
+    width: 50%;
+    float: right;
+    padding-left: 500px;
+    mix-blend-mode: color-burn;
+}
+.img img{
+    width: 90%;
+    margin: 75px 41px;
+
+}
+.navbar{
+   display: inline-block;
+    background-color: red;
+    border-radius: 30px;
+    width: 100%;
+    
+}
+
+.navbar h1{
+    position: absolute;
+    color: white;
+    display: inline-block;
+    width: 80%;
+    height:80px;
+    padding-left: 20px;
+    
+}
+
+.navbar p{
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 500px;
+   float: right;
+    font:20px;
+   padding-right: 50px;
+   margin: 10px 10px;
+   padding: 10px 10px;
+   color: white;
+}
+.formbar{
+    width: 80%;
+    height: auto;
+    border-radius: 20px 20px ;
+
+}
+.formbar{
+    border-radius: 30px 30px;
+    background-color:#a5a583;
+    width: 1300px;
+    height: 600px;
+    text-align: center;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+.formbar1{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    margin: 10px 10px;
+    padding: 5px 5px;
+}
+
+.main{
+   
+    padding: 0px;
+    color: white;
+    
+}
+ h1{
+    margin: 5px;
+    padding-top:10px;
+    font-size: 10px bold solid;
+    color: white;
+}
+.radio{
+    margin: 0px;
+    padding: 0px;
+}
+.radio label{
+    font-size: 20px bold solid;
+    color:#fff;
+    margin: 5px 5px;
+}
+.radio input{
+    margin: 5px 5px;
+    font-size: 10px;
+    padding: 5px 5px;
+}
+h2{
+    margin: 10px 10px ;
+    
+    color: white;
+    padding-left: center;
+}
+.Degree{
+    font-size: 30px bold solid;
+    color: #fff;
+   
+}
+.Degree label{
+    padding: 5px 1px;
+    margin: 10px 10px;
+    padding-bottom: 10px;
+}
+.btn{
+    position: absolute;
+    display: flex;
+    padding-left: 50px;
+
+}
+.btn button{
+    color: red;
+    margin: 10px 40px;
+    padding: 8px 8px;
+    border-radius: 20px 20px;
+    background-color:lightyellow;
+}
+.btn button:hover{
+    color: blue;
+}
+footer{
+    width: 100%;
+    height: auto;
+    border-radius: 20px 20px;
+    margin-top: 78px;
+    background-color: rgb(12, 49, 119);
+}
+.ha{
+    overflow: auto;
+}
+
+.ha h1{
+    color: red;
+    padding: 10px 10px;
+    align-items: center;
+    padding-left: 45%;
+}
+.img1{
+    width: 30%;
+    display: inline-block;
+    padding-left: 100px;
+
+}
+ .img1 img {
+        width: 120px;
+        height: auto;
+        margin: -11px 41px;
+        padding: 21px 37px
+ }
+ 
+.img2{
+
+    width: 20%;
+ float: right;
+ padding-right: 300px;
+}
+ .img2 img {
+        width: 120px;
+        height: auto;
+        margin: -11px 41px;
+    
+ }
+ .img3{
+
+    width: 20%;
+ float: right;
+
+}
+ .img3 img {
+        width: 120px;
+        height: auto;
+        margin: -2px 41px;
+        padding-right: 230px;
+ }
+ .para1{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    
+ }
+ .para1 p{
+    float: 20px;
+    color: white;
+    padding-left: 450px;
+
+    
+    color: white;
+
+ }
+
